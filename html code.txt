@@ -1,0 +1,8 @@
+<script src="https://www.google.com/jsapi"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+<body onload="initialize()">
+    <div>
+      <div id="map-canvas" style="height:250px;"></div>
+      <div id="elevation_chart"></div>
+    </div>
+  </body>
